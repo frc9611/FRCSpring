@@ -5,6 +5,6 @@
 
 This template is for creating applications that integrates Spring Boot and WPILib modules (like NetworkTables, OpenCv, WpiUtil, WpiMath, WpiNet and CameraServer)``
 
-#### Author/Maintainers:
+#### Authors/Maintainers:
 * **
 João Rodrigo H. Luckow [Development Head]
